@@ -75,17 +75,6 @@ Memory Corruption • Buffer Overflows • ROP Chains • Shellcode Crafting
 
 ---
 
-## 🔥 GitHub İstatistikler
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dpaysm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dpaysm&theme=tokyonight&hide_border=true&background=0D1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
-
-</div>
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpaysm&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&hide=html,css,scss,less)
 
 ---
