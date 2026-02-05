@@ -28,7 +28,6 @@
 🔹 **Red Team & Penetration Tester**  
 🔹 **Web Security | Mobile Analysis | Reverse Engineering**  
 🔹 **Payload Crafting**  
-🔹 _**Kali / Arch / Debian**_  
 
 ---
 
@@ -75,10 +74,6 @@ Memory Corruption • Buffer Overflows • ROP Chains • Shellcode Crafting
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpaysm&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&hide=html,css,scss,less)
-
----
-
 ## 🌍 İletişim
 
 <div align="center">
@@ -93,7 +88,7 @@ Memory Corruption • Buffer Overflows • ROP Chains • Shellcode Crafting
 
 <div align="center">
 
-###  _"The best defense is a good offense"_
+###  _"Freedom is everything."_
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
