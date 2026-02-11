@@ -86,7 +86,7 @@ Memory Corruption • Buffer Overflows • ROP Chains • Shellcode Crafting
 
 ---
 
-CVEs
+## 🎯CVE'lerim
 
 CVE-2025-68934
 
