@@ -86,6 +86,12 @@ Memory Corruption • Buffer Overflows • ROP Chains • Shellcode Crafting
 
 ---
 
+CVEs
+
+CVE-2025-68934
+
+---
+
 <div align="center">
 
 ###  _"Freedom is everything."_
