@@ -9,12 +9,6 @@
 ╚═════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
 </pre>
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=dpaysm&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dpaysm)
-
-<br>
-
 ### _"Freedom"_ 
 
 </div>
