@@ -9,8 +9,6 @@
 ╚═════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Binary+Exploitation;Reverse+Engineering;Penetration+Testing;Cybersecurity+Researcher" alt="Typing SVG" />
-
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dpaysm&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dpaysm)
