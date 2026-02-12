@@ -17,9 +17,7 @@
 
 ## 🚀 Hakkımda
 
-🔹 **Red Team & Penetration Tester**  
-🔹 **Web Security | Mobile Analysis | Reverse Engineering**  
-🔹 **Payload Crafting**  
+Hacker işte
 
 ---
 
