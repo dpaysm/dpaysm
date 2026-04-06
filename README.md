@@ -17,7 +17,7 @@
 *Security Researcher · Bug Hunter · Binary Freak*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dpaysm.dpaysm)
-[![CVE](https://img.shields.io/badge/CVE-2025--68934-red?style=flat-square&logo=hackthebox&logoColor=white)](https://github.com/dpaysm)
+[![CVE](https://img.shields.io/badge/CVE-2025--68934-red?style=flat-square&logo=hackthebox&logoColor=white)](h[ttps://github.com/dpaysm](https://github.com/discourse/discourse/security/advisories/GHSA-vwjh-vrx9-9849))
 
 </div>
 
