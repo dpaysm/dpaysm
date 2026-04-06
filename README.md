@@ -29,7 +29,6 @@
 class Dpaysm:
     role     = "Security Researcher & Hacker"
     motto    = "Freedom is everything."
-    cve      = ["CVE-2025-68934"]
     status   = "Offline"
     location = "Cyberspace"
 ```
