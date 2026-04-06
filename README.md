@@ -94,7 +94,7 @@ class Dpaysm:
 
 | ID | Status | Severity |
 |:--:|:------:|:--------:|
-| **CVE-2025-68934** | ✅ Disclosed | 🔴 Critical |
+| **CVE-2025-68934** | ✅ Disclosed | 🔴 Medium |
 
 </div>
 
